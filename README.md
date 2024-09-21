@@ -1,1 +1,3 @@
-# CQRS-delux-architecture-
+# CQRS-delux-architecture
+
+---
